@@ -77,7 +77,7 @@ CONTACT_INFO = "hgs5@bfh.ch"
 
 # * (python -m) streamlit run app.py
 
-DEPLOY_STATE = "dev"  # !!!
+DEPLOY_STATE = "deployed"  # !!!
 
 # =============================================================================
 # Initialisign database (Further information -> database.py)
